@@ -33,6 +33,10 @@ links:
       url: https://qinxs.github.io
       avatar: https://cdn.jsdelivr.net/gh/qinxs/cdn-assets/img/avatar.png
       tags: [技术总结, 各种折腾]
+    - name: SDLTF
+      url: https://sdltf.info
+      avatar: https://i.loli.net/2020/07/18/zamJPcdBIU2SleD.jpg
+      tags: [C++, C, Python, D, 打游戏, 弹钢琴, OI]
   - group: '版本：^2.5～2.6'
     desc: 新增 Group、References 组件；新增 Checkbox、Radio、Image、Video 等标签
     items:
